@@ -36,6 +36,12 @@ Or, alternatively, install pre-commit with [uv](https://github.com/astral-sh/uv)
 uv tool install pre-commit
 ```
 
+Install pre-commit hooks:
+
+```shell
+pre-commit install
+```
+
 To build a local development release, run:
 
 ```shell
